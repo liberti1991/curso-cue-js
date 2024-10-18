@@ -1,0 +1,3 @@
+install vueJs
+yarn global add @vue/cli
+vi

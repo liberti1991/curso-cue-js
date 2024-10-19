@@ -1,3 +1,5 @@
 install vueJs
 yarn global add @vue/cli
-vi
+
+start project 
+yarn serve

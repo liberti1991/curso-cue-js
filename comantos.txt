@@ -1,5 +1,14 @@
 install vueJs
 yarn global add @vue/cli
+yarn add --dev tailwindcss postcss autoprefixer
+npx tailwindcss init
+yarn add axios 
+yarn add vuex
+
+
+
+npm i -g json-server
+json-server --watch db.json
 
 start project 
 yarn serve
